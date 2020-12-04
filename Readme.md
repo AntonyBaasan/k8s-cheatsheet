@@ -3,7 +3,7 @@
 Mount local driver to the Minikube
 
 ```
-minikube c:\User\<bla>\minikube_shared:/mounted_drive
+minikube mount c:\User\<bla>\minikube_shared:/mounted_drive
 ```
 
 ## Kubectl
